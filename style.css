@@ -1,0 +1,41 @@
+/* ここに CSS のコードを書きましょう */
+#bd{
+    background-color: black;
+}
+
+#midasi{
+    color: white;
+    font-size: 350%;
+    font-family: "Kaisei Decol", serif;
+    height: 50px;
+    font-style: normal;
+}
+
+#parag{
+    color: white;
+    font-size: 200%;
+    height: 70px;
+}
+
+#recomend{
+    color: white;
+    height: 20px;
+    font-size: 200% ;
+}
+
+#name{
+    color: white;
+    height: 20px;
+}
+
+#setumei{
+    color: white;
+    font-size: 140%;
+}
+
+#art{
+    color: white;
+    font-size: 150%;
+    height: 200px;
+}
+
