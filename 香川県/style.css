@@ -1,0 +1,9 @@
+/* ここに CSS のコードを書きましょう */
+#bd {          
+    background-image: url(
+https://funtrip-magazine.com/wp-content/uploads/2019/12/%E9%A6%99%E5%B7%9D%E7%9C%8C-%E8%A6%B3%E5%85%89-%E3%81%8A%E3%81%99%E3%81%99%E3%82%81-1.jpg);
+    
+     }
+     h3{
+         font-size: 30px;
+     }
