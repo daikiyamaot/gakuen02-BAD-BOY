@@ -1,0 +1,10 @@
+/* ここに CSS のコードを書きましょう */
+#bd {     
+    color: white;     
+    background-image:url(https://s3-ap-northeast-1.amazonaws.com/thegate/2021/02/10/12/32/21/Aomori-Nebuta-Festival-Big.jpg);
+}
+
+h3{
+         font-size: 30px;
+}
+
